@@ -6,11 +6,11 @@ Objectives:
 
 Instructions:
 1. We are instructed to create a running light circuit using Arduino
-- We use pins 8 to 12 for the LEDs
+- We used pins 8 to 12 for the LEDs
 - We made it ran light from 12 to 8 with a delay of 1 second (turn all LED on one by one, then turn all LED off one by one)
-- We use digitalWrite() to control the LEDs
+- We used digitalWrite() to control the LEDs
 
-2. This github link containing the following:
+2. This github link contains the following:
 - Bitanga_Olano_Paciente_LEDSequentialControlProject.ino
 - Breadboard diagram. (http://bit.ly/47Mf65Y)
 <img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/user-attachments/assets/fadaed9f-2c4a-4ffb-bbb9-4726fa6e4a3c" />
