@@ -7,7 +7,7 @@ Objectives:
 Instructions:
 1. We are instructed to create a running light circuit using Arduino
 - We use pins 8 to 12 for the LEDs
-- We made it Ran light from 12 to 8 with a delay of 1 second (turn all LED on one by one, then turn all LED off one by one)
+- We made it ran light from 12 to 8 with a delay of 1 second (turn all LED on one by one, then turn all LED off one by one)
 - We use digitalWrite() to control the LEDs
 
 2. This github link containing the following:
